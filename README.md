@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Solar System](./solar-system-matrix.svg)
 <!--
 **Scube0/Scube0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
