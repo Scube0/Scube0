@@ -5,6 +5,8 @@ Hello!
 
 Computer science student @ KTH. 
 
-I enjoy building, researching, and understanding the secrets of the cosmos
+I enjoy building, researching, and understanding the secrets of the cosmos.
 
-Hobbies include chess, reading, and boxing
+Hobbies include chess, reading, and boxing.
+
+Currently revisiting and polishing up old projects.
